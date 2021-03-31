@@ -1,2 +1,2 @@
 # zyk98.github.io
-zyk98.github.io    我的hexo博客
+zyk98.github.io   hexo博客
